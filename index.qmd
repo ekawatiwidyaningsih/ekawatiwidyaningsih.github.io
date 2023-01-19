@@ -10,13 +10,9 @@ format:
 editor: visual
 ---
 
-![](images/paste-2AE9825E.png)
-
 ## Pendahuluan
 
 ### Latar belakang
-
-![](images/paste-258C8FA4.png)
 
 Perdagangan merupakan proses kegiatan yang berkaitan erat dengan pertukaran barang dan/atau jasa guna memperoleh imbalan atas barang/jasa yang ditawarkan. Ada berbagai jenis perdagangan di dunia ini, salah satunya adalah perdagangan internasional. Pengertian dari perdagangan internasional itu sendiri adalah hubungan perniagaan antara para pihak yang berada di dua negara yang berbeda, secara garis besar dilakukan dalam bentuk ekspor dan impor (Rinaldy Eddie,dkk. 2020).Kemudian jika dikutip dari Undang -- Undang Nomor 7 Tahun 2014 Tentang Perdagangan, perdagangan internasional adalah Perdagangan yang mencakup kegiatan Ekspor dan/atau Impor atas Barang dan/atau Perdagangan Jasa yang melampaui batas wilayah negara. Jadi dapat disimpulkan bahwa perdagangan internasional adalah kegiatan mengeluarkan barang dari daerah pabean atau memasukkan barang ke daerah pabean.
 
@@ -99,10 +95,6 @@ library(tidyverse)
 
     Dengan adanya Undang-Undang tersebut Presiden Jokowi sempat beberapa kali melontarkan permintaan larangan ekspor bauksit pada saat Pertemuan Tahunan Bank Indonesia, 24 November 2021. Jokowi mengatakan bahwa ini perlu dilakukan agar Indonesia tidak lagi menjual bahan mentah,melainkan harus bernilai tambah terlebih dahulu setelah melalui proses pengolahan dan pemurnian di dalam negeri.Dengan demikian,negara dan rakyat akan mendapatkan keuntungan lebih besar dibandingkan hanya menjual bahan mentah. Ini adalah bentuk upaya untuk menjaga ketersediaan. Oleh karenanya berdasarkan Undang-Undang tersebut,menjadi satu hal yang penting untuk menjaga ketersediaan bauksit di masa mendatang. Presiden Jokowi menerangkan berakhirnya periode penjualan atau periode ekspor mentah bauksit berencana akan berhenti ekspor pada 10 Juni 2023.
 
-3.  **KERANGKA PENELITIAN**
-
-    ![](images/paste-9BD94F6D.png)
-
     ## Metode penelitian
 
 ### Data
@@ -117,8 +109,6 @@ library(tidyverse)
     | 2020                       | 25.860                    |
     | 2021                       | 25.781                    |
 
-    ![](images/paste-5A9F17CF.png)
-
 2.  **DATA HARGA BAUKSIT INDONESIA TAHUN 2017 S.D. 2021 SEBAGAI VARIABEL X2**
 
     |  TAHUN                     |  JUMLAH (DALAM \$)           |
@@ -128,8 +118,6 @@ library(tidyverse)
     | 2019                       | 1.809                        |
     | 2020                       | 1.675                        |
     | 2021                       | 2.397                        |
-
-    ![](images/paste-11EDCACE.png)
 
 3.  **DATA EKSPOR BAUKSIT INDONESIA TAHUN 2017 S.D. 2021 SEBAGAI VARIABEL Y**
 
@@ -141,8 +129,6 @@ library(tidyverse)
     | 2020                       | 19.378,03                 |
     | 2021                       | 19.914,48                 |
 
-    ![](images/paste-65C257C3.png)
-
 4.  **IMPLEMENTASI DATA X1 DAN DATA X2 TERHADAP DATA Y**
 
 | TAHUN | PRODUKSI (X1) | HARGA (X2) | EKSPOR (Y) |
@@ -152,8 +138,6 @@ library(tidyverse)
 | 2019  | 16.592        | 1.809      | 15.501,44  |
 | 2020  | 25.860        | 1.675      | 19.378,03  |
 | 2021  | 25.781        | 2.397      | 19.914,48  |
-
-![](images/paste-AA989B73.png)
 
 ### Metode analisis
 
