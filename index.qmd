@@ -10,11 +10,13 @@ format:
 editor: visual
 ---
 
+![](images/paste-2AE9825E.png)
+
 ## Pendahuluan
 
 ### Latar belakang
 
-![](images/paste-EA988FDB.png)
+![](images/paste-258C8FA4.png)
 
 Perdagangan merupakan proses kegiatan yang berkaitan erat dengan pertukaran barang dan/atau jasa guna memperoleh imbalan atas barang/jasa yang ditawarkan. Ada berbagai jenis perdagangan di dunia ini, salah satunya adalah perdagangan internasional. Pengertian dari perdagangan internasional itu sendiri adalah hubungan perniagaan antara para pihak yang berada di dua negara yang berbeda, secara garis besar dilakukan dalam bentuk ekspor dan impor (Rinaldy Eddie,dkk. 2020).Kemudian jika dikutip dari Undang -- Undang Nomor 7 Tahun 2014 Tentang Perdagangan, perdagangan internasional adalah Perdagangan yang mencakup kegiatan Ekspor dan/atau Impor atas Barang dan/atau Perdagangan Jasa yang melampaui batas wilayah negara. Jadi dapat disimpulkan bahwa perdagangan internasional adalah kegiatan mengeluarkan barang dari daerah pabean atau memasukkan barang ke daerah pabean.
 
@@ -22,7 +24,29 @@ Dalam kegiatan perdagangan internasional dapat kita temui berbagai kegiatan, umu
 
 Indonesia merupakan salah satu negara yang memiliki tingkat ekspor dan impor yang cukup tinggi pada beberapa komoditas. Indonesia ikut serta secara aktif dalam kegiatan ekspor dan impor, terlebih setelah tergabung pada World Trade Organization sejak tahun 1995 silam dan semakin meningkat sejak Indonesia ikut menyepakati perjanjian pedagangan bebas atau biasa dikenal dengan Free Trade Agreement (FTA). Dengan berbagai kesepakatan yang sudah disetujui dalam FTA, Indonesia memiliki akses tambahan dalam hal penghapusan tarif ekspor impor dan memperoleh akses hambatan non tarif dalam perdagangan barang, kemudian memperoleh keluasan akses pasar dan memperoleh kondisi pasar yang kondusif dalam menyediakan produk jasa dalam perdagangan jasa, dan memperoleh perlindungan dan dukungan investasi untuk pasar investasi.
 
-Jika dilihat dari kondisi selama 3 tahun terakhir dimana terjadi kemunduran perkembangan dalam banyak aspek kehidupan dikarenakan terjadinya wabah penyakit baru yaitu wabah COVID -- 19 membuat Indonesia juga menjadi salah satu negara yang terkena dampaknya. Menurut data dari [www.trademap.org](http://www.trademap.org) 5 tahun terakhir, Indonesia mengalami penurunan nilai ekspor dan nilai impor yang cukup signifikan di tahun 2019 dan 2020 sekaligus mengalami perlambatan nilai ekspor dan nilai impor sejak tahun tersebut. ![](images/paste-AB668286.png) ![](images/paste-96F9D5B8.png) Jika dilihat dari data tersebut, tingkat ekspor dan impor Indonesia dalam 5 tahun terakhir terjadi penurunan di tahun 2018 s.d. 2020. Lalu keduanya berhasil meningkat kembali di tahun 2021. Kondisi ini terjadi karena pada tahun 2018 s.d. 2020 terjadi perubahan kondisi seluruh aspek kehidupan akibat wabah COVID - 19 dan Indonesia baru bisa kembali menyesuaikan diri terhitung sejak tahun 2021 sehingga menyebabkan angka ekspor dan impor baru bisa meningkat kembali pada tahun tersebut. Walaupun angka ekspor Indonesia terlihat cukup fluktuatif, akan tetapi terdapat beberapa komoditas yang memiliki jumlah ekspor yang semakin meningkat setiap tahunnya. Komoditas tersebut adalah komoditas dalam sektor barang tambang mineral.
+Jika dilihat dari kondisi selama 3 tahun terakhir dimana terjadi kemunduran perkembangan dalam banyak aspek kehidupan dikarenakan terjadinya wabah penyakit baru yaitu wabah COVID -- 19 membuat Indonesia juga menjadi salah satu negara yang terkena dampaknya. Menurut data dari [www.trademap.org](http://www.trademap.org) 5 tahun terakhir, Indonesia mengalami penurunan nilai ekspor dan nilai impor yang cukup signifikan di tahun 2019 dan 2020 sekaligus mengalami perlambatan nilai ekspor dan nilai impor sejak tahun tersebut.
+
+**DATA EKSPOR INDONESIA**
+
+| TAHUN | JUMLAH EKSPOR INDONESIA (\$) |
+|-------|------------------------------|
+| 2017  | 168.810.637,00               |
+| 2018  | 180.215.036,00               |
+| 2019  | 167.682.996,00               |
+| 2020  | 163.306.490,00               |
+| 2021  | 228.231.164,00               |
+
+**DATA IMPOR INDONESIA**
+
+| TAHUN | JUMLAH IMPOR INDONESIA (\$) |
+|-------|-----------------------------|
+| 2017  | 158.925.150,00              |
+| 2018  | 188.711.246,00              |
+| 2019  | 1271.275.737,00             |
+| 2020  | 141.622.127,00              |
+| 2021  | 195.712.409,00              |
+
+Jika dilihat dari data tersebut, tingkat ekspor dan impor Indonesia dalam 5 tahun terakhir terjadi penurunan di tahun 2018 s.d. 2020. Lalu keduanya berhasil meningkat kembali di tahun 2021. Kondisi ini terjadi karena pada tahun 2018 s.d. 2020 terjadi perubahan kondisi seluruh aspek kehidupan akibat wabah COVID - 19 dan Indonesia baru bisa kembali menyesuaikan diri terhitung sejak tahun 2021 sehingga menyebabkan angka ekspor dan impor baru bisa meningkat kembali pada tahun tersebut. Walaupun angka ekspor Indonesia terlihat cukup fluktuatif, akan tetapi terdapat beberapa komoditas yang memiliki jumlah ekspor yang semakin meningkat setiap tahunnya. Komoditas tersebut adalah komoditas dalam sektor barang tambang mineral.
 
 Hasil tambang Indonesia cukup tinggi minatnya di pasar dunia. Hal itu dikarenakan Indonesia mampu menyediakan berbagai hasil tambang dalam jumlah yang besar. Hasil tambang tersebut sangat diperlukan bagi negara -- negara besar dalam mengembangkan sektor industri hingga teknologi yang sedang mereka kembangkan. Terlihat sangat menguntungkan sebab Indonesia mampu memperoleh devisa negara yang cukup besar jika melakukan ekspor barang tambang mineral tersebut, terlebih ketersediaannya di Indonesia masih cukup tinggi. Akan tetapi akan jauh lebih menguntungkan jika Indonesia tidak melakukan ekspor komoditas hanya dalam bentuk mentahnya saja, tapi dalam bentuk komoditas yang sudah di olah. Hal itu dikarenakan harga jual komoditas mentah jauh lebih rendah dibandingkan harga jual komoditas olahan, namun Indonesia belum bisa melakukan pengolahan yang efektif untuk komoditas barang tambang mineral. Hasilnya Indonesia harus merelakan untuk mengekspor komoditas dalam bentuk mentah dengan jumlah yang banyak ke negara lain untuk di olah dan selanjutnya dimanfaatkan oleh negara tersebut. Keputusan yang dijalani Indonesia ini di nilai oleh Presiden Republik Indonesia Ke-7 yaitu Ir. Joko Widodo akan mengancam ketersediaan bahan baku mentah komoditas tambang mineral Indonesia di masa mendatang
 
@@ -77,7 +101,7 @@ library(tidyverse)
 
 3.  **KERANGKA PENELITIAN**
 
-    ![](images/paste-E0B336CD.png)
+    ![](images/paste-9BD94F6D.png)
 
     ## Metode penelitian
 
@@ -85,25 +109,51 @@ library(tidyverse)
 
 1.  **DATA PRODUKSI BAUKSIT INDONESIA TAHUN 2017 S.D. 2021 SEBAGAI VARIABEL X1**
 
-    ![](images/paste-C90BA48D.png)
+    |  TAHUN                     |  JUMLAH (DALAM RIBU TON)  |
+    |----------------------------|---------------------------|
+    | 2017                       | 1.294                     |
+    | 2018                       | 5.694                     |
+    | 2019                       | 16.592                    |
+    | 2020                       | 25.860                    |
+    | 2021                       | 25.781                    |
 
-    ![](images/paste-B1429264.png)
+    ![](images/paste-5A9F17CF.png)
 
 2.  **DATA HARGA BAUKSIT INDONESIA TAHUN 2017 S.D. 2021 SEBAGAI VARIABEL X2**
 
-    ![](images/paste-B37F7996.png)
+    |  TAHUN                     |  JUMLAH (DALAM \$)           |
+    |----------------------------|------------------------------|
+    | 2017                       | 2.114                        |
+    | 2018                       | 2.099                        |
+    | 2019                       | 1.809                        |
+    | 2020                       | 1.675                        |
+    | 2021                       | 2.397                        |
 
-    ![](images/paste-8504C232.png)
+    ![](images/paste-11EDCACE.png)
 
 3.  **DATA EKSPOR BAUKSIT INDONESIA TAHUN 2017 S.D. 2021 SEBAGAI VARIABEL Y**
 
-    ![](images/paste-99438A4D.png)
+    |  TAHUN                     |  JUMLAH (DALAM RIBU TON)  |
+    |----------------------------|---------------------------|
+    | 2017                       | 1.716,69                  |
+    | 2018                       | 8.651,84                  |
+    | 2019                       | 15.501,44                 |
+    | 2020                       | 19.378,03                 |
+    | 2021                       | 19.914,48                 |
 
-    ![](images/paste-98CE98A8.png)
+    ![](images/paste-65C257C3.png)
 
 4.  **IMPLEMENTASI DATA X1 DAN DATA X2 TERHADAP DATA Y**
 
-    ![](images/paste-08C4F182.png)
+| TAHUN | PRODUKSI (X1) | HARGA (X2) | EKSPOR (Y) |
+|-------|---------------|------------|------------|
+| 2017  | 1.294         | 2.114      | 1.716,69   |
+| 2018  | 5.694         | 2.099      | 8.651,84   |
+| 2019  | 16.592        | 1.809      | 15.501,44  |
+| 2020  | 25.860        | 1.675      | 19.378,03  |
+| 2021  | 25.781        | 2.397      | 19.914,48  |
+
+![](images/paste-AA989B73.png)
 
 ### Metode analisis
 
@@ -126,8 +176,6 @@ Analisis menggunakan metode regresi multivariat atau dengan regresi linear seder
 
 1.  Plot Variabel independen X1 dan Variabel dependen Y
 
-    ![](images/paste-AB24B0A3.png)
-
     ```{r}
     setwd("D:/DATA EKSPOR BAUKSIT INDONESIA")
     library('readxl')
@@ -140,8 +188,6 @@ Analisis menggunakan metode regresi multivariat atau dengan regresi linear seder
 
 2.  Plot Variabel independen X2 dan Variabel dependen Y
 
-    ![](images/paste-FE1A31EF.png)
-
     ```{r}
     setwd("D:/DATA EKSPOR BAUKSIT INDONESIA")
     library('readxl')
@@ -153,8 +199,6 @@ Analisis menggunakan metode regresi multivariat atau dengan regresi linear seder
     Ini merupakan hasil plot dari variabel independen X2 yang merupakan data harga bauksit Indonesia dengan variabel dependen Y yang merupakan data jumlah ekspor bauksit Indonesia. Hasil plot ini didapatkan dengan melakukan run pada command :
 
 3.  Regresi Varibel Y dengan Variabel X1 + Variabel X2
-
-    ![](images/paste-9479F971.png)
 
     ```{r}
     setwd("D:/DATA EKSPOR BAUKSIT INDONESIA")
@@ -170,8 +214,6 @@ Analisis menggunakan metode regresi multivariat atau dengan regresi linear seder
     Ini merupakan hasil regresi variabel independen X1 dan variabel independen X2 terhadap variabel dependen Y. Hasil regresi ini didapatkan dengan melakukan run pada command :
 
     4.  GGPLOT HUBUNGAN JUMLAH PRODUKSI BAUKSIT (X1)TERHADAP JUMLAH EKSPOR BAUKSIT INDONESIA(Y)
-
-        ![](images/paste-9E195739.png)
 
         ```{r}
         setwd("D:/DATA EKSPOR BAUKSIT INDONESIA")
@@ -191,8 +233,6 @@ Analisis menggunakan metode regresi multivariat atau dengan regresi linear seder
         ```
 
     5.  GGPLOT HUBUNGAN HARGA BAUKSIT (X2) TERHADAP JUMLAH EKSPOR BAUKSIT INDONESIA (Y)
-
-        ![](images/paste-685BCA9F.png)
 
         ```{r}
         setwd("D:/DATA EKSPOR BAUKSIT INDONESIA")
@@ -215,7 +255,7 @@ Analisis menggunakan metode regresi multivariat atau dengan regresi linear seder
 
 Dari hasil regresi yang didapatkan, kita dapat memperoleh model persamaan =
 
-![](images/paste-1EE1127C.png)
+Y = 5083,4120 + 0,6684X1 - 1,0525X2
 
 1.  Konstanta (intercept)
 
